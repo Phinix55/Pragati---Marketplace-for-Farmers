@@ -11,7 +11,8 @@ The dashboard is designed with simplicity and efficiency in mind, providing farm
 - A clear view of **current orders**, **earnings**, and **pending tasks**.
 - **Real-time notifications** for order updates and requests.
 
-<img src="https://via.placeholder.com/800x400.png?text=Farmer+Dashboard" alt="Farmer Dashboard UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=1duAYCOQxY3707qGh5NDEVzSiohMJkaT2)
+
 
 ---
 
@@ -21,7 +22,7 @@ Farmers can showcase their products and connect directly with buyers:
 - **Dynamic Pricing Tools**: Adjust prices based on market demand.
 - **Buyer Insights**: View inquiries and feedback to improve sales.
 
-<img src="https://via.placeholder.com/800x400.png?text=Farmer+Marketplace" alt="Marketplace UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=1F_ELfhc1b_icdsPEx1iamJlQWal2SfHp)
 
 ---
 
@@ -31,7 +32,7 @@ Pragati simplifies product delivery and logistics management:
 - **Real-Time Tracking**: Stay updated on delivery progress.
 - **Return Handling**: Easily manage refunds and exchanges.
 
-<img src="https://via.placeholder.com/800x400.png?text=Logistics+Support" alt="Logistics Support UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=14nzs3LTrvLb-Gu0jY0hJpO5i8XEikHdI)
 
 ---
 
@@ -41,7 +42,7 @@ Farmers can monitor their financial performance through an intuitive earnings da
 - **Pending Payments**: Transparent breakdown of transactions.
 - **Product Insights**: Analytics on top-selling products.
 
-<img src="https://via.placeholder.com/800x400.png?text=Earnings+Dashboard" alt="Earnings Insights UI" width="90%" />
+![Pragati App](https://drive.google.com/uc?export=view&id=1yLGdM8ikmL_qn62EcJjqubr_XTb-pyZg)
 
 ---
 
@@ -58,17 +59,6 @@ Farmers can monitor their financial performance through an intuitive earnings da
 4. **Visual Cues**: Icons and images make navigation intuitive and user-friendly.
 
 ---
-
-## 📸 **Screenshots**
-
-### **Marketplace for Product Listings**  
-<img src="https://via.placeholder.com/800x400.png?text=Marketplace+Listing" alt="Product Listing Screenshot" width="90%" />
-
-### **Earnings Dashboard**  
-<img src="https://via.placeholder.com/800x400.png?text=Earnings+Insights" alt="Earnings Dashboard Screenshot" width="90%" />
-
-### **Delivery Management**  
-<img src="https://via.placeholder.com/800x400.png?text=Delivery+Management" alt="Delivery Management Screenshot" width="90%" />
 
 ---
 
